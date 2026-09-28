@@ -67,7 +67,7 @@ I'm currently interested in:
 
 ### 📫 Connect With Me
 
-* 💼 LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
+* 💼 LinkedIn: [Azizakhon Mamajonova]((https://www.linkedin.com/in/azizakhon-mamajonova-6b02022ba/)
 * 🐙 GitHub: [@azizaakb32](https://github.com/azizaakb32)
 
 ---
